@@ -1,15 +1,21 @@
 - 👋 Hi, I’m @fabmaiadeve My name is Fabiano Maia
 
 I'm a Software Engineer, that has been working as Back-End developer since 2011.
-
+ 
 - 👀 I’m interested in ...
 
 TI, Old Games, Veganism, Cooking, Urban Gardens, Music and Dance.   
 
 - 🌱 I’m currently learning ...
-
+<div style="display: inline_block">
+  <img align="center" alt="Fab-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
+</div>
 Java Spring, JavaScript, Python, Machine Learning, IA, Azure, Docker...
-
+  
 - 💞️ I’m looking to collaborate on ...
 
 I'm not currently collaborating with any project.
@@ -18,6 +24,13 @@ I'm not currently collaborating with any project.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fabiano%20Maia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-maia-1b8564b8/)](https://www.linkedin.com/in/fabiano-maia-1b8564b8/) 
 [![Gmail Badge](https://img.shields.io/badge/-fmaiati@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fmaiati@gmail.com)](mailto:fmaiati@gmail.com)
+<div>
+  <a href="https://github.com/fabmaiadeve">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabmaiadeve&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabmaiadeve&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+
+  
 
 <!---
 fabmaiadeve/fabmaiadeve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
