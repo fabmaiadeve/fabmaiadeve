@@ -1,32 +1,41 @@
 - 👋 Hi, I’m @fabmaiadeve My name is Fabiano Maia
 
 I'm a Software Engineer, that has been working as Back-End developer since 2011.
- 
+
+---
+
 - 👀 I’m interested in ...
 
 TI, Old Games, Veganism, Cooking, Urban Gardens, Music and Dance.   
 
+---
+
 - 🌱 I’m currently learning ...
 <div style="display: inline_block">
-  <img align="center" alt="Fab-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Fab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Fab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fab-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Fab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
+ <img align="center" alt="Fab-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+ <img align="center" alt="Fab-Thymeleaf" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg"> 
+ <img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Fab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="Fab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Fab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Fab-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+ <img align="center" alt="Fab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
 </div>
 Java Spring, Java Quarkus, JavaScript, Python, Machine Learning, IA, Azure, Docker...
-  
+
+---
+
 - 💞️ I’m looking to collaborate on ...
 
 I'm not currently collaborating with any project.
 
+---
+
 - 📫 How to reach me ...
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fabiano%20Maia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-maia-1b8564b8/)](https://www.linkedin.com/in/fabiano-maia-1b8564b8/) 
-[![Gmail Badge](https://img.shields.io/badge/-fmaiati@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fmaiati@gmail.com)](mailto:fmaiati@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fmaiati@gmail.com)](mailto:fmaiati@gmail.com)
 <div>
   <a href="https://github.com/fabmaiadeve">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabmaiadeve&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
