@@ -26,7 +26,7 @@ TI, Old Games, Veganism, Cooking, Urban Gardens, Music and Dance.
  <img align="center" alt="Fab-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
  <img align="center" alt="Fab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
 </div>
-Java Spring, Java Quarkus, JavaScript, Python, Machine Learning, IA, Azure, Docker...
+Java Spring, Java Quarkus, Thymeleaf, Wordpress, JavaScript, Python, Docker...
 
 ---
 
