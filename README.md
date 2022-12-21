@@ -15,7 +15,7 @@ TI, Old Games, Veganism, Cooking, Urban Gardens, Music and Dance.
  <img align="center" alt="Fab-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  <!--<img align="center" alt="Fab-Thymeleaf" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-plain.svg">--> 
  <img align="center" alt="Fab-Thymeleaf" height="30" width="40" src="https://ik.imagekit.io/m9jek0taq/logos/thymeleaf.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671652040057">
- <img align="center" alt="Fab-Spring" height="30" width="40" src="https://ik.imagekit.io/m9jek0taq/logos/spring_logo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671652600483">
+ <img align="center" alt="Fab-Spring" height="40" width="40" src="https://ik.imagekit.io/m9jek0taq/logos/Captura_de_tela_2022-12-21_163915.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671652039901">
  <img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Fab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center" alt="Fab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
