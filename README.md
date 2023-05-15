@@ -6,7 +6,7 @@ I'm a Software Engineer, that has been working as Back-End developer since 2011.
 
 - 👀 I’m interested in ...
 
-TI, Old Games, Veganism, Cooking, Urban Gardens, Music and Dance.   
+TI, Old Games, Chess, Veganism, Cooking, Urban Gardens, Music and Dance.   
 
 ---
 
