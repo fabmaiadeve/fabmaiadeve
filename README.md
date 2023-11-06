@@ -19,8 +19,8 @@ TI, Old Games, Chess, Veganism, Cooking, Urban Gardens, Music and Dance.
  <img align="center" alt="Fab-Quarkus" height="40" width="40" src="https://ik.imagekit.io/m9jek0taq/logos/quarkus_logo_transp.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671653269761">
  <img align="center" alt="Fab-WP" height="40" width="40" src="https://ik.imagekit.io/m9jek0taq/logos/logo_wp_01_R5ATlc3lJ?ik-sdk-version=javascript-1.4.3&updatedAt=1671654596313">
  <img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Fab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Fab-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/angular-plain.svg">
+ <img align="center" alt="Fab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+ <img align="center" alt="Fab-Angular" height="40" width="40" src="https://ik.imagekit.io/m9jek0taq/logos/angular-icon.svg?updatedAt=1699229050970">
  <img align="center" alt="Fab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Fab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
