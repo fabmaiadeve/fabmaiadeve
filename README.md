@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabmaiadeve My name is Fabiano Maia
 
-I'm a Software Engineer, that has been working as Back-End developer since 2011.
+I'm a Software Engineer, that has been working as Back-End developer since 2018.
 
 ---
 
@@ -17,7 +17,7 @@ TI, Old Games, Chess, Veganism, Cooking, Urban Gardens, Music and Dance.
  <img align="center" alt="Fab-Thymeleaf" height="30" width="40" src="https://ik.imagekit.io/m9jek0taq/logos/thymeleaf.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671652040057">
  <img align="center" alt="Fab-Spring" height="40" width="40" src="https://ik.imagekit.io/m9jek0taq/logos/Captura_de_tela_2022-12-21_163915.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671652039901">
  <img align="center" alt="Fab-Quarkus" height="40" width="40" src="https://ik.imagekit.io/m9jek0taq/logos/quarkus_logo_transp.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671653269761">
- <img align="center" alt="Fab-WP" height="40" width="40" src="https://ik.imagekit.io/m9jek0taq/logos/logo_wp_01_R5ATlc3lJ?ik-sdk-version=javascript-1.4.3&updatedAt=1671654596313">
+ <!--<img align="center" alt="Fab-WP" height="40" width="40" src="https://ik.imagekit.io/m9jek0taq/logos/logo_wp_01_R5ATlc3lJ?ik-sdk-version=javascript-1.4.3&updatedAt=1671654596313">-->
  <img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Fab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
  <img align="center" alt="Fab-Angular" height="40" width="40" src="https://ik.imagekit.io/m9jek0taq/logos/angular-icon.svg?updatedAt=1699229050970">
@@ -25,7 +25,7 @@ TI, Old Games, Chess, Veganism, Cooking, Urban Gardens, Music and Dance.
  <img align="center" alt="Fab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Fab-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
- <img align="center" alt="Fab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
+ <!--<img align="center" alt="Fab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->    
 </div>
 Java Spring, Java Quarkus, Thymeleaf, Angular, React, Wordpress, JavaScript, Python, Docker...
 
